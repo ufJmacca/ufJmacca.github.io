@@ -2,7 +2,7 @@
 title: Dagster Resources
 date: 2022-11-15 10:00:00 +1100
 categories: [Data, dagster]
-tags: [til]     # TAG names should always be lowercase
+tags: [til] 
 ---
 
 # Dagster Resources
@@ -15,6 +15,6 @@ After some sleuthing around in the dagster documentation, I came across [Resourc
 > 
 > Resources typically model external components that assets and ops interact with. For example, a resource might be a connection to a data warehouse like Snowflake or a service like Slack.
 
-## One downside
+## One apparent downside
 
 Looking at some of the examples provided by dagster, the only downside is that resources do not feature prominently on asset graphs, which is a bit dissapointing, hopefully they will find a way to feature them more prominently. The asset/lineage graphs are the one of the most powerful and useful aspects of dagster.
