@@ -16,3 +16,5 @@ We then create a function to calculate the common char value of the items in the
 We then loop through the rucksacks and calculate the common char value of the items in each rucksack and store the values in a list. We then sum up the list and print out the total common value to complete part 1 of todays challenge.
 
 For part two, we then repeat the same process to calculate the common char value of items in a group of three rucksacks. We loop through the group of rucksacks and calculate the common char value of the items in each group and store the values in a list. We then sum up the list and print out the total common value to complete part 2 of todays challenge.
+
+The code for this challenge, and the others I completed in 2022 can be found on [my github](https://github.com/ufJmacca/advent2022)
