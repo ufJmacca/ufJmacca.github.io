@@ -110,3 +110,5 @@ for _, stack in stacks_dict.items():
 ```
 
 That's all there is to it! With this code, you'll be able to move crates in stacks with ease.
+
+The code for this challenge, and the others I completed in 2022 can be found on [my github](https://github.com/ufJmacca/advent2022)
