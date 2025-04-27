@@ -24,6 +24,6 @@ To begin this journey I need to successfully create a sourdough starter colony o
 - Scrap down the sides with a spatula to reduce chance of mould growth
 - Cover lightly and let sit at Room temperature
 
-![Day 1 Starter](assets/images/IMG_3475 Large.jpeg)
+![Day 1 Starter](../assets/images/IMG_3475 Large.jpeg)
 
 See you in 2 days for the next step in creating this starter culture.
